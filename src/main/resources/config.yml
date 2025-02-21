@@ -1,0 +1,2 @@
+event-name: "DefaultJoltTheBoltEvent"
+command-response: "&eEvent name changed to: <eventName>"

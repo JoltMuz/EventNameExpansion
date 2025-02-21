@@ -1,0 +1,10 @@
+name: EventNameExpansion
+main: io.github.JoltMuz.EventNameExpansion.Main
+version: 1.0
+author: JoltTheBolt
+description: PlaceholderAPI expansion to set event names
+commands:
+  eventname:
+    description: /eventname <eventName> (to set value of %eventname% placeholder)
+    usage: /eventname <eventName>
+    aliases: [en, name]
